@@ -8,12 +8,16 @@ education:
   ]
 ```
 
-## Skills include
-![Python]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg")
-![MongoDB]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg")
-![R]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg")
-          
+## Data Science Skills include
 
+<p align = "left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='python' height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt='jupyter' height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt='mongodb' height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt='pandas' height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt='numpy' height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt='R' height="50" />
+</p>
 
 
 <!--
