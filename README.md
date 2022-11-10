@@ -1,5 +1,5 @@
 ## :sunny: Basic Information
----
+
 ```yaml
 location: Munich, Germany
 education:
