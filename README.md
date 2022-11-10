@@ -1,6 +1,17 @@
-### Hi there 👋
+```yaml
+location: Munich, Germany
+education:
+  [
+    'B.Sc. Economics'
+    'B.A. Business Management'
+    'M.Sc. Data Science (currently studying)'
+  ]
+```
+
+
 
 <!--
+### Hi there 👋
 **TheArmbreaker/TheArmbreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
