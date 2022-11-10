@@ -8,6 +8,12 @@ education:
   ]
 ```
 
+## Skills include
+![Python]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg")
+![MongoDB]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg")
+![R]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg")
+          
+
 
 
 <!--
