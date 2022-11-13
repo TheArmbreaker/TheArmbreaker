@@ -1,12 +1,16 @@
 ## :sunny: Basic Information
 
 ```yaml
-location: Munich, Germany
+location: 'Munich, Germany'
 education:
   [
     'B.Sc. Economics'
     'B.A. Business Management'
     'M.Sc. Data Science (currently studying)'
+  ]
+currently_learning:
+  [
+    'Web- and Socialmedia Analytics'
   ]
 away_from_desk:
   [
