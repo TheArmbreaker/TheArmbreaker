@@ -10,7 +10,7 @@ education:
   ]
 currently_learning:
   [
-    'Web- and Socialmedia Analytics'
+    'Shiny'
   ]
 away_from_desk:
   [
