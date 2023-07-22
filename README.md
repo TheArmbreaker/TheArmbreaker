@@ -10,7 +10,7 @@ education:
   ]
 currently_learning:
   [
-    'Shiny'
+    'Preparing Masterthesis on Object Detection'
   ]
 away_from_desk:
   [
