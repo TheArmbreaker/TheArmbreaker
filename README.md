@@ -6,11 +6,11 @@ education:
   [
     'B.Sc. Economics'
     'B.A. Business Management'
-    'M.Sc. Data Science (currently studying)'
+    'M.Sc. Data Science'
   ]
 currently_learning:
   [
-    'Preparing Masterthesis on Object Detection'
+    'Streamlit Application for Data Communication'
   ]
 away_from_desk:
   [
